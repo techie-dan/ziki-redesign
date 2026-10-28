@@ -1,0 +1,8 @@
+{
+  "name": "Ziki Synapse - Human-Agent Co-Steering Protocol",
+  "description": "Interactive Human-Agent Interaction enhancement for ziki.dev/issues, featuring dynamic waypoints, adaptive mid-flight co-steering, and verifiable dual-lens consensus.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
